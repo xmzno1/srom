@@ -134,8 +134,8 @@ def test_10gene_crossval_edgematch(run_count = 30, outfileT='expression_data.txt
 
 if __name__ == '__main__': #this line is required for multi-process computing
     run_count = 3
-    nthreads=10
-    threshold=0.5
+    nthreads = 1
+    threshold = 0.5
     res_p3, res_p5, res_p7 = test_10gene_crossval_edgematch(run_count = run_count, 
                                                             outfileT='expression_data.txt', 
                                                             nthreads=nthreads, 
