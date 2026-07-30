@@ -1,0 +1,3 @@
+expression data：https://github.com/vahuynh/GENIE3/tree/master/GENIE3_python
+gene relationship data: http://genemania.org/data/
+cgc gene data: https://cancer.sanger.ac.uk/cosmic/census
